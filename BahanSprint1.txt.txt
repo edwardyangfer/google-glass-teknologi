@@ -1,0 +1,8 @@
+Google Glass adalah sebuah gadget (perangkat teknologi modern) dalam bentuk kacamata, yang memiliki kemampuan 
+untuk menampilkan informasi serta fungsi layaknya smartphone bebas genggam, dan dapat dikendalikan melalui 
+perintah suara. Konsepnya adalah, meletakkan layar monitor/tablet/smartphone tepat di depan mata penggunanya.
+
+Google Glass dikembangkan oleh raksasa internet Amerika Serikat, Google Inc. Lebih tepatnya lagi, oleh "Google X",
+sebuah lab rahasia yang memiliki misi menciptakan berbagai macam teknologi masa depan, dan diawasi langsung 
+oleh Sergey Brin, co-founder Google. Secara khusus, proyek ini dinamakan "Project Glass" dan dipimpin oleh Thad Starner, 
+seorang profesor yang berpengalaman di bidang teknologi augmented reality. Sebagai tambahan, teknologi yang dipakai dalam "Project Glass" ini telah dipatenkan.
