@@ -6,3 +6,7 @@ Andi(121112481)
 1. Kemaren saya mempelajari cara menggunakan github
 2. Hari ene saya mencari bahan untuk membuat presentasi mengenai Cara Kerja Google Glass
 3. Masalahnya karena hari libur, jadi waktu pembuatannya sedikit
+Andy Syahputra
+1. Kemaren saya mempelajar cara menggunakan github dan trello
+2. Hari ini saya mencari bahan bahan presentasi google class dan saya buat dalam bentuk document
+3. Masalahnya saya belum mengerti cara menggunakan node.js
