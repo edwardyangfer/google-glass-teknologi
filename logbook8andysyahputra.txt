@@ -1,0 +1,48 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok: TheCooler
+Judul Topik: Google Glass Teknologi
+Alamat Github: https://github.com/edwardyangfer/google-glass-teknologi.git
+Alamat Trello: https://trello.com/b/g6I7cJd3/tkppl
+Anggota 1:
+	Nama: Edward Yangfer
+	NIM: 121110731
+Anggota 2:
+	Nama: Andi
+	NIM: 121112481
+Anggota 3:
+	Nama: Andy Syahputra
+	NIM: 121111427
+=======================
+
+
+SPRINT
+------
+Sprint 1: 
+26/5 - 29/5
+Scrummaster: Edward Yangfer (121110731)
+
+Sprint 2:
+30/5 - 3/6
+Scrummaster : Andy Syahputra (121111427)
+
+Sprint 3: 
+4/6 - 8/6
+Scrummaster : Andi (121112481)
+
+3/5
+Daily Scrum
+
+Andy Syahputra(121111427)
+1. Siang Tadi Saya Membuat Slide Presentasi tentang Harga Google Glass
+2. Hari ini saya membuat Slide Presentasi tentang Biografy Andy Syahputra
+3. Tidak ada Masalah
+Edward Yangfer(121110731)
+1. Siang Tadi Membuat Slide Presentasi tentang Fungsi Google Glass
+2. Hari ini saya membuat Slide Presentasi tentang Biografi Edward Yangfer
+3. Masalahnya koneksi internet bermasalah sehingga hampir terlambat untuk melakukan push
+Andi(121112481)
+1. Siang Tadi saya Membuat Slide Presentasi tentang Gambar Google Glass dan Bagian - Bagiannya
+2. Hari ini saya membuat Slide Presentasi tentang Biografi Andi
+3. Tidak ada Masalah
