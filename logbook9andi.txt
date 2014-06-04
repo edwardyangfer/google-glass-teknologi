@@ -31,18 +31,18 @@ Sprint 3:
 4/6 - 8/6
 Scrummaster : Andi (121112481)
 
-3/6
+4/6
 Daily Scrum
 
+Andi(121112481)
+1. Semalam saya Membuat Slide Presentasi tentang Biografi Andi
+2. Hari ini saya membuat Slide Presentasi tentang Biografi Lary Page
+3. Tidak ada Masalah
 Andy Syahputra(121111427)
-1. Siang Tadi Saya Membuat Slide Presentasi tentang Harga Google Glass
-2. Hari ini saya membuat Slide Presentasi tentang Biografy Andy Syahputra
+1. Semalam Saya Membuat Slide Presentasi tentang Biografy Andy Syahputra
+2. Hari ini saya membuat Slide Presentasi tentang Google Glass berbahaya bagi anak - anak
 3. Tidak ada Masalah
 Edward Yangfer(121110731)
-1. Siang Tadi Membuat Slide Presentasi tentang Fungsi Google Glass
-2. Hari ini saya membuat Slide Presentasi tentang Biografi Edward Yangfer
-3. Masalahnya koneksi internet bermasalah sehingga hampir terlambat untuk melakukan push
-Andi(121112481)
-1. Siang Tadi saya Membuat Slide Presentasi tentang Gambar Google Glass dan Bagian - Bagiannya
-2. Hari ini saya membuat Slide Presentasi tentang Biografi Andi
+1. Semalam Saya Membuat Slide Presentasi tentang Biografi Edward Yangfer
+2. Hari ini saya membuat Slide Presentasi tentang Daftar Perintah pada Google Glass
 3. Tidak ada Masalah
